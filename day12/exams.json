@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Tom",
+        "exams": [
+            {
+                "subject": "chinese",
+                "score": 100
+            },
+            {
+                "subject": "math",
+                "score": 90
+            },
+            {
+                "subject": "english",
+                "score": 80
+            }
+        ]
+    },
+    {
+        "name": "Mary",
+        "exams": [
+            {
+                "subject": "chinese",
+                "score": 90
+            },
+            {
+                "subject": "math",
+                "score": 50
+            },
+            {
+                "subject": "english",
+                "score": 30
+            }
+        ]
+    },
+    {
+        "name": "John",
+        "exams": [
+            {
+                "subject": "chinese",
+                "score": 90
+            },
+            {
+                "subject": "math",
+                "score": 70
+            },
+            {
+                "subject": "english",
+                "score": 80
+            }
+        ]
+    }
+]
